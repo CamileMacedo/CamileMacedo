@@ -1,4 +1,4 @@
-## Hi! My name is Camile 👋🥰
+## Hi! My name is Camile and this is my work profile.👋🥰
 I'm 19 years old and I'm a Systems Development student at the Federal Institute of São Paulo, in Bragança Paulista, Brazil.
 
 Currently, I'm an intern at a company as a Developer, where I'm having the opportunity to explore, learn, and work with various technologies. I'm still in the early stages, but the technologies I'm getting acquainted with include:
