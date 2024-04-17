@@ -16,6 +16,10 @@ I'm still in the early stages, but the technologies I'm getting acquainted with 
   <img align="center" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="65" height="40" />
   <img align="center" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="65" height="40" />
   <img align="center" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="40" />
+  <img align="center" title="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="65" height="40" />
+  <img align="center" title="NextJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="NextJs" width="65" height="40" />
+  <img align="center" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="65" height="40" />
+  <img align="center" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="40" />
 </div>
 
 ##
